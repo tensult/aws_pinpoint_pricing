@@ -1,0 +1,988 @@
+CountryName,CountryCode,Inbound Price,Provider,OutBoundTransactional Price,OutBound Promotional Price,OutBound OTP Price
+Argentina,AR,0.0023,Claro,0.03865,0.03711,0.02358
+Argentina,AR,0.0023,Claro Argentina,0.01896,0.01896,0.02358
+Argentina,AR,0.0023,Claro Argentina,0.02821,0.02821,0.02358
+Argentina,AR,0.0023,Claro Argentina,0.02821,0.02821,0.02358
+Argentina,AR,0.0023,Nextel Argentina,0.02821,0.02821,0.02358
+Argentina,AR,0.0023,Nextel Argentina,0.01896,0.01896,0.02358
+Argentina,AR,0.0023,Telecom Personal,0.02821,0.02821,0.02358
+Argentina,AR,0.0023,Telecom Personal,0.02821,0.02821,0.02358
+Argentina,AR,0.0023,Telecom Personal,0.02821,0.02821,0.02358
+Argentina,AR,0.0023,Telecom Personal,0.01896,0.01896,0.02358
+Argentina,AR,0.0023,Telefonica Moviles,0.02821,0.02821,0.02358
+Argentina,AR,0.0023,Telefonica Moviles,0.02821,0.02821,0.02358
+Argentina,AR,0.0023,Telefonica Moviles,0.02821,0.02821,0.02358
+Argentina,AR,0.0023,Telefonica Moviles,0.01896,0.01896,0.02358
+Argentina,AR,0.0023,Tesam Argentina Sociedad Anonima,0.01896,0.01896,0.02358
+Austria,AT,0.00465,A1 Telekom Austria AG,0.11448,0.11448,0.04694
+Austria,AT,0.00465,A1 Telekom Austria AG,0.11448,0.11448,0.04694
+Austria,AT,0.00465,A1 Telekom Austria AG,0.11448,0.11448,0.04694
+Austria,AT,0.00465,A1 Telekom Austria AG,0.11448,0.11448,0.04694
+Austria,AT,0.00465,A1 Telekom Austria AG,0.11448,0.11448,0.04694
+Austria,AT,0.00465,A1 Telekom Austria AG,0.11448,0.11448,0.04694
+Austria,AT,0.00465,Hutchison Drei Austria GmbH,0.11448,0.11448,0.04694
+Austria,AT,0.00465,Hutchison Drei Austria GmbH,0.13841,0.12846,
+Austria,AT,0.00465,Hutchison Drei Austria GmbH,0.11448,0.11448,0.04694
+Austria,AT,0.00465,Hutchison Drei Austria GmbH,0.11448,0.11448,0.04694
+Austria,AT,0.00465,Hutchison Drei Austria GmbH,0.11448,0.11448,0.04694
+Austria,AT,0.00465,Lycamobile,0.10951,0.11448,0.04694
+Austria,AT,0.00465,MASS Respones,0.09317,0.19512,
+Austria,AT,0.00465,Smartspace,0.11448,0.11448,0.04694
+Austria,AT,0.00465,T-Mobile Austria GmbH,0.11448,0.11448,0.04694
+Austria,AT,0.00465,T-Mobile Austria GmbH,0.11448,0.11448,0.04694
+Austria,AT,0.00465,Tele.ring,0.11448,0.11448,0.04694
+Austria,AT,0.00465,Tele2,0.11448,0.11448,0.04694
+Austria,AT,0.00465,UPC,0.11448,0.11448,0.04694
+Austria,AT,0.00465,m:tel,0.11448,0.11448,0.04694
+Australia,AU,0.009,CLX Networks Australia Pty Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Compatel Limited,0.04473,0.04243,0.01834
+Australia,AU,0.009,Dialogue Communications Pty,0.04473,0.04243,0.01834
+Australia,AU,0.009,Lycamobile Pty Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Messagebird Pty Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Optus Mobile Pty Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Optus Mobile Pty Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Optus Mobile Pty Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Optus Mobile Pty Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Pivotel,0.04473,0.04243,0.01834
+Australia,AU,0.009,Pivotel Satellite Pty Limited,0.04473,0.04243,0.01834
+Australia,AU,0.009,Railcorp,0.04473,0.04243,0.01834
+Australia,AU,0.009,Telstra Corporation Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Telstra Corporation Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Telstra Corporation Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Telstra Corporation Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Telstra Corporation Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Victorian Rail Track Corporation,0.04473,0.04243,0.01834
+Australia,AU,0.009,Vodafone Australia Pty Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Vodafone Australia Pty Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Vodafone Australia Pty Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Vodafone Australia Pty Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Vodafone Australia Pty Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Vodafone Australia Pty Ltd,0.04473,0.04243,0.01834
+Australia,AU,0.009,Vodafone Australia Pty Ltd,0.04473,0.04243,0.01834
+Belgium,BE,0.00465,Base Company NV,0.09533,0.09533,0.07424
+Belgium,BE,0.00465,Belgacom,0.09533,0.09533,0.07424
+Belgium,BE,0.00465,Join Experience Belgium,0.09533,0.09533,0.07424
+Belgium,BE,0.00465,Lycamobile SPRL,0.09533,0.09533,0.07424
+Belgium,BE,0.00465,Mobistar s.a.,0.09533,0.09533,0.07424
+Belgium,BE,0.00465,Mundio Mobile Belgium nv,0.09533,0.09533,0.07424
+Belgium,BE,0.00465,N.M.B.S.,0.09533,0.09533,0.07424
+Belgium,BE,0.00465,Telenet BVBA,0.09533,0.09533,0.07424
+Belgium,BE,0.00465,Telenet n.v.,0.09533,0.09533,0.07424
+Belgium,BE,0.00465,Voo,0.09533,0.09533,0.07424
+Belgium,BE,0.00465,Voxbone S.A.,0.09533,0.09533,0.07424
+Brazil,BR,0.00327,America Net,0.02333,0.0244,0.01098
+Brazil,BR,0.00327,CTBC Celular S.A.,0.02678,0.02678,0.01098
+Brazil,BR,0.00327,CTBC Celular S.A.,0.0244,0.0244,0.01098
+Brazil,BR,0.00327,CTBC Celular S.A.,0.02678,0.02678,0.01098
+Brazil,BR,0.00327,CTBC Celular S.A.,0.02678,0.02678,0.01098
+Brazil,BR,0.00327,Cinco,0.01098,0.02455,
+Brazil,BR,0.00327,Claro S.A.,0.0244,0.0244,0.01098
+Brazil,BR,0.00327,Claro S.A.,0.02678,0.02678,0.01098
+Brazil,BR,0.00327,Datora Mobile Telecomunicacoes,0.0244,0.0244,0.01098
+Brazil,BR,0.00327,Nextel Services de Telecomunicacoes Ltda,0.0244,0.0244,0.01098
+Brazil,BR,0.00327,Nextel Telephone,0.0244,0.0244,0.01098
+Brazil,BR,0.00327,Oi,0.0244,0.0244,0.01098
+Brazil,BR,0.00327,Oi,0.02678,0.02678,0.01098
+Brazil,BR,0.00327,Oi,0.02678,0.02678,0.01098
+Brazil,BR,0.00327,Oi,0.02678,0.02678,0.01098
+Brazil,BR,0.00327,Options Computadores & Eletronica LTDA,0.0244,0.0244,0.01098
+Brazil,BR,0.00327,Porto Conecta,0.0244,0.0244,0.01098
+Brazil,BR,0.00327,SERCOMTEL Celular S.A.,0.0244,0.0244,0.01098
+Brazil,BR,0.00327,SERCOMTEL Celular S.A.,0.02678,0.02678,0.01098
+Brazil,BR,0.00327,Surf Telecom,0.02333,0.0244,0.01098
+Brazil,BR,0.00327,TIM Celular S.A.,0.0244,0.0244,0.01098
+Brazil,BR,0.00327,TIM Celular S.A.,0.02678,0.02678,0.01098
+Brazil,BR,0.00327,TIM Celular S.A.,0.02678,0.02678,0.01098
+Brazil,BR,0.00327,TIM Celular S.A.,0.02678,0.02678,0.01098
+Brazil,BR,0.00327,UNICEL do Brasil Telecomunications,0.0244,0.0244,0.01098
+Brazil,BR,0.00327,VIVO S.A.,0.0244,0.0244,0.01098
+Brazil,BR,0.00327,VIVO S.A.,0.02678,0.02678,0.01098
+Brazil,BR,0.00327,VIVO S.A.,0.02678,0.02678,0.01098
+Brazil,BR,0.00327,VIVO S.A.,0.02678,0.02678,0.01098
+Brazil,BR,0.00327,Vivo,0.02333,0.0244,0.01098
+Canada,CA,0.00155,BELL ALIANT REGIONAL Communications LP,0.00281,0.00281,
+Canada,CA,0.00155,BELL ALIANT REGIONAL Communications LP,0.00109,0.00109,
+Canada,CA,0.00155,BRAGG Communications INC.,0.00281,0.00281,0.0011
+Canada,CA,0.00155,Chatr Mobile,0.00687,0.00687,0.0011
+Canada,CA,0.00155,Cityfone,0.00687,0.00687,0.0011
+Canada,CA,0.00155,Enflick,0.00687,0.00687,0.0011
+Canada,CA,0.00155,Execulink Telecom,0.00281,0.00281,0.0011
+Canada,CA,0.00155,Explornet Communications Inc.,0.00281,0.00281,
+Canada,CA,0.00155,Explornet Communications Inc.,0.00109,0.00109,
+Canada,CA,0.00155,First Networks Operations,0.00687,0.00687,0.0011
+Canada,CA,0.00155,Fizz Mobile,0.00687,0.00687,0.0011
+Canada,CA,0.00155,Freedom Mobile Inc.,0.00281,0.00281,0.0011
+Canada,CA,0.00155,Freedom Mobile Inc.,0.00109,0.00109,
+Canada,CA,0.00155,Globalstar Canada Company,0.00281,0.00281,0.0011
+Canada,CA,0.00155,Ice Wireless Inc.,0.00281,0.00281,0.0011
+Canada,CA,0.00155,Iristel Inc.,0.06812,0.06812,
+Canada,CA,0.00155,Keewaytinook Okimakanak,0.00109,0.00109,0.0011
+Canada,CA,0.00155,Keewaytinook Okimakanak,0.00281,0.00281,
+Canada,CA,0.00155,Kore Wireless,0.00687,0.00687,0.0011
+Canada,CA,0.00155,MTS Communications Inc.,0.00281,0.00281,0.0011
+Canada,CA,0.00155,MTS Communications Inc.,0.00109,0.00109,0.0011
+Canada,CA,0.00155,Quadro Communications,0.00687,0.00687,0.0011
+Canada,CA,0.00155,Rogers Communications Canada Inc.,0.00687,0.00687,0.0011
+Canada,CA,0.00155,Rogers Communications Canada Inc.,0.00268,0.00268,0.0011
+Canada,CA,0.00155,Rogers Communications Canada Inc.,0.00268,0.00268,0.0011
+Canada,CA,0.00155,Rogers Communications Canada Inc.,0.0146,0.0146,
+Canada,CA,0.00155,SSI Micro Ltd,0.00687,0.00687,0.0011
+Canada,CA,0.00155,SSI Micro Ltd.,0.00281,0.00281,
+Canada,CA,0.00155,Sask Tel,0.00109,0.00109,
+Canada,CA,0.00155,Sask Tel,0.00281,0.00281,0.0011
+Canada,CA,0.00155,Sask Tel,0.00109,0.00109,0.0011
+Canada,CA,0.00155,Sask Tel,0.00109,0.00109,0.0011
+Canada,CA,0.00155,TBayTel Wireless,0.00687,0.00687,0.0011
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.00268,0.00268,0.0011
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.00268,0.00268,0.0011
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.00268,0.00268,0.0011
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.00268,0.00268,0.0011
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.02131,0.02131,
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.00268,0.00268,0.0011
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.00268,0.00268,0.0011
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.00268,0.00268,0.0011
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.02131,0.02131,
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.02131,0.02131,
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.02131,0.02131,
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.02131,0.02131,
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.00268,0.00268,0.0011
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.00268,0.00268,0.0011
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.02131,0.02131,
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.02131,0.02131,
+Canada,CA,0.00155,Telus Communications / Bell Cellular Inc. / Aliant Telecom,0.05462,0.05462,
+Canada,CA,0.00155,Videotron G.P.,0.00109,0.00109,0.0011
+Canada,CA,0.00155,Videotron G.P.,0.00281,0.00281,0.0011
+Canada,CA,0.00155,Videotron G.P.,0.00109,0.00109,
+Canada,CA,0.00155,Wightman Telecom,0.00281,0.00281,0.0011
+Canada,CA,0.00155,Xplornet,0.0011,0.00687,
+Canada,CA,0.00155,Ztar Mobile,0.00687,0.00687,0.0011
+Switzerland,CH,0.00163,Bebbicell AG,0.05809,0.05809,0.03448
+Switzerland,CH,0.00163,BeeOne Communications SA,0.05809,0.05809,0.03448
+Switzerland,CH,0.00163,Comfone AG,0.05809,0.05809,0.03448
+Switzerland,CH,0.00163,Comfone AG,0.05809,0.05809,0.03448
+Switzerland,CH,0.00163,Lycamobile AG,0.05809,0.05809,0.03448
+Switzerland,CH,0.00163,Salt Mobile SA,0.05809,0.05809,0.03448
+Switzerland,CH,0.00163,Sunrise Communications AG,0.05809,0.05809,0.03448
+Switzerland,CH,0.00163,Sunrise Communications AG,0.06158,0.06158,
+Switzerland,CH,0.00163,Sunrise Communications AG,0.06158,0.06158,
+Switzerland,CH,0.00163,Swisscom AG,0.05809,0.05809,0.03448
+Switzerland,CH,0.00163,Tele2,0.06829,0.07751,0.03448
+Switzerland,CH,0.00163,UPC Schweiz GmbH,0.05809,0.05809,0.03448
+Switzerland,CH,0.00163,in&phone,0.06829,0.07751,0.03448
+Chile,CL,0.00155,Celupago S.A.,0.03582,0.03582,0.02176
+Chile,CL,0.00155,Claro Chile S.A.,0.03582,0.03582,0.02176
+Chile,CL,0.00155,Compatel Chile Limitada,0.03582,0.03582,0.02176
+Chile,CL,0.00155,Entel PCS Telecomunicaciones S.A.,0.03582,0.03582,0.02176
+Chile,CL,0.00155,Entel PCS Telecomunicaciones S.A.,0.03582,0.03582,0.02176
+Chile,CL,0.00155,Netline Telefonica Movil Limitada,0.03582,0.03582,0.02176
+Chile,CL,0.00155,Nextel Chile,0.03582,0.03582,0.02176
+Chile,CL,0.00155,Nextel Radio Chile,0.03582,0.03582,0.02176
+Chile,CL,0.00155,Nextel Radio Chile,0.03582,0.03582,0.02176
+Chile,CL,0.00155,Nomade Telecomunicaciones S.A.,0.03582,0.03582,0.02176
+Chile,CL,0.00155,Simple Spa (Movistar),0.04975,0.04121,0.02176
+Chile,CL,0.00155,Telefonica Moviles Chile S.A.,0.03582,0.03582,0.02176
+Chile,CL,0.00155,Telefonica Moviles Chile S.A.,0.03582,0.03582,0.02176
+Chile,CL,0.00155,Telestar Movil S.A.,0.03582,0.03582,0.02176
+Chile,CL,0.00155,Tribe Mobile SPA,0.03582,0.03582,0.02176
+Chile,CL,0.00155,VTR Banda Ancha S.A.,0.03582,0.03582,0.02176
+Chile,CL,0.00155,WILL Telefonia,0.04975,0.04121,0.02176
+China,CN,0.009,China Mobile,0.01531,0.01531,0.01263
+China,CN,0.009,China Mobile,0.01195,0.01195,0.01263
+China,CN,0.009,China Mobile,0.01195,0.01195,0.01263
+China,CN,0.009,China Mobile,0.01195,0.01195,0.01263
+China,CN,0.009,China Mobile,0.01195,0.01195,0.01263
+China,CN,0.009,China Netcom,0.01531,0.01531,0.01263
+China,CN,0.009,China Telecom,0.01531,0.01531,0.01263
+China,CN,0.009,China Telecom,0.01195,0.01195,0.01263
+China,CN,0.009,China Telecom,0.01195,0.01195,0.01263
+China,CN,0.009,China Unicom,0.01531,0.01531,0.01263
+China,CN,0.009,China Unicom,0.01195,0.01195,0.01263
+China,CN,0.009,China Unicom,0.01195,0.01195,0.01263
+China,CN,0.009,ChinaSat,0.01531,0.01531,0.01263
+Czech Republic,CZ,0.00155,Compatel s.r.o.,0.07926,0.07926,0.05255
+Czech Republic,CZ,0.00155,Mundio Distribution Czech Republic s.r.o.,0.07926,0.07926,0.05255
+Czech Republic,CZ,0.00155,Nordic Telecom s.r.o.,0.07926,0.07926,0.05255
+Czech Republic,CZ,0.00155,T-Mobile Czech Republic,0.07926,0.07926,0.05255
+Czech Republic,CZ,0.00155,T-Mobile Czech Republic,0.06609,0.06609,
+Czech Republic,CZ,0.00155,Telfonica O2 Czech Republic,0.07926,0.07926,0.05255
+Czech Republic,CZ,0.00155,Telfonica O2 Czech Republic,0.07926,0.07926,0.05255
+Czech Republic,CZ,0.00155,Vodafone Czech Republic,0.07926,0.07926,0.05255
+Czech Republic,CZ,0.00155,Vodafone Czech Republic,0.07926,0.07926,0.05255
+Germany,DE,0.00256,Argons Networks UG,0.08998,0.08998,0.07368
+Germany,DE,0.00256,E-Plus Mobilfunk,0.08998,0.08998,0.07368
+Germany,DE,0.00256,E-Plus Mobilfunk,0.15363,0.15363,0.07368
+Germany,DE,0.00256,E-Plus Mobilfunk,0.15363,0.15363,0.07368
+Germany,DE,0.00256,E-Plus Mobilfunk,0.15363,0.15363,0.07368
+Germany,DE,0.00256,E-Plus Mobilfunk,0.15363,0.15363,0.07368
+Germany,DE,0.00256,E-Plus Mobilfunk,0.15363,0.15363,0.07368
+Germany,DE,0.00256,E-Plus Mobilfunk,0.15363,0.15363,0.07368
+Germany,DE,0.00256,E-Plus Mobilfunk,0.15363,0.15363,0.07368
+Germany,DE,0.00256,Lycamobile Germany,0.08998,0.08998,0.07368
+Germany,DE,0.00256,Telefonica Germany,0.08998,0.08998,0.07368
+Germany,DE,0.00256,Telefonica Germany,0.15363,0.15363,0.07368
+Germany,DE,0.00256,Telefonica Germany,0.15363,0.15363,0.07368
+Germany,DE,0.00256,Telekom Deutschland GmbH,0.08998,0.08998,0.07368
+Germany,DE,0.00256,Telekom Deutschland GmbH,0.15363,0.15363,0.07368
+Germany,DE,0.00256,Telekom Deutschland GmbH,0.15363,0.15363,0.07368
+Germany,DE,0.00256,Vodafone GmbH,0.08998,0.08998,0.07368
+Germany,DE,0.00256,Vodafone GmbH,0.15363,0.15363,0.07368
+Germany,DE,0.00256,Vodafone GmbH,0.15363,0.15363,0.07368
+Germany,DE,0.00256,Vodafone GmbH,0.15363,0.15363,0.07368
+Germany,DE,0.00256,Vodafone GmbH,0.15363,0.15363,0.07368
+Denmark,DK,0.00186,Banedanmark,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,Compatel Limited,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,CoolTEL,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,Greenwave Mobile,0.04414,0.05385,0.02208
+Denmark,DK,0.00186,Hi3G,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,Ice Danmark ApS,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,Lycamobile Denmark Ltd,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,Mach Connectivity,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,MobiWeb Limited,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,Naka AG,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,NextGen Mobile,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,TDC A/S,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,TDC A/S,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,Telenor,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,Telenor,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,Telia,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,Telia,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,Telia,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,Tismi BV,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,Vectone Mobile,0.0399,0.0399,0.02208
+Denmark,DK,0.00186,Voxbone,0.0399,0.0399,0.02208
+Estonia,EE,0.00155,AS EMT,0.11156,0.1108,0.04657
+Estonia,EE,0.00155,Elisa Eesti AS,0.11156,0.1108,0.04657
+Estonia,EE,0.00155,Tele2 Eesti AS,0.11156,0.1108,0.04657
+Estonia,EE,0.00155,Top Connect,0.07682,0.1108,
+Spain,ES,0.00093,Aire Networks del Mediterráneo,0.03609,0.08721,
+Spain,ES,0.00093,Cableuropa,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Digi Spain Telecom S.L.,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Euskaltel S.A.,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Flamatel,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Jazztel,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Lleida,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Lycamobile S.L.,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Masmovil Ibercom S.A.,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Masmovil Ibercom S.A.,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Masmovil Ibercom S.A.,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Movistar,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Movistar,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Movistar,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Movistar,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Orange,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Orange Espana S.A. Unipersonal,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Orange Espana S.A. Unipersonal,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Orange Espana S.A. Unipersonal,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Orange Espana S.A. Unipersonal,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Parlem Telecom Companyia De Telecomunicacions S.L,0.08802,0.08721,0.03609
+Spain,ES,0.00093,R Cable y Telecomunicaciones Galicia S.A.,0.08802,0.08721,0.03609
+Spain,ES,0.00093,SCN Truphone S.L.,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Simyo,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Telecable de Asturias S.A.U.,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Tuenti Technologies S.L.,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Tuenti Technologies S.L.,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Vectone,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Vectone,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Vodafone,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Vodafone,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Vodafone,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Vodafone,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Vodafone Enabler Espana S.L.,0.08802,0.08721,0.03609
+Spain,ES,0.00093,Vodafone ONO S.A. Unipersonal,0.08802,0.08721,0.03609
+Spain,ES,0.00093,XFERA Moviles S.A.,0.08802,0.08721,0.03609
+Finland,FI,0.00165,Ainacom OY,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Alands Telekommunikation Ab,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Compatel Limited,0.11346,0.11346,0.05497
+Finland,FI,0.00165,DNA Palvelut OY,0.11346,0.11346,0.05497
+Finland,FI,0.00165,DNA Palvelut OY,0.11346,0.11346,0.05497
+Finland,FI,0.00165,DNA Palvelut OY,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Elisa OYJ,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Elisa OYJ,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Elisa OYJ,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Kuiri Mobile Oy,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Kuiri Mobile Oy,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Liikennevirasto,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Mundio Mobile Ltd,0.11341,0.11341,
+Finland,FI,0.00165,Nokia Solutions and Networks Oy,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Nokia Solutions and Networks Oy,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Nokia Solutions and Networks Oy,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Nokia Solutions and Networks Oy,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Nokia Solutions and Networks Oy,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Nokia Solutions and Networks Oy,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Nokia Solutions and Networks Oy,0.11346,0.11346,0.05497
+Finland,FI,0.00165,SMS Provider Corp.,0.11346,0.11346,0.05497
+Finland,FI,0.00165,TDC Oy Finland,0.11341,0.11341,
+Finland,FI,0.00165,Telavox AB,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Telia Finland Oyj,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Telia Finland Oyj,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Teliasonera Finland OYJ,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Tismi BV,0.11346,0.11346,0.05497
+Finland,FI,0.00165,Voxbone SA,0.11346,0.11346,0.05497
+France,FR,0.00023,AFONE,0.05564,0.05564,0.04219
+France,FR,0.00023,Bouygues Telecom,0.05564,0.05564,0.04219
+France,FR,0.00023,Bouygues Telecom,0.095,0.095,0.04219
+France,FR,0.00023,Bouygues Telecom,0.095,0.095,0.04219
+France,FR,0.00023,Completel,0.05564,0.05564,0.04219
+France,FR,0.00023,Free,0.05564,0.05564,0.04219
+France,FR,0.00023,Free,0.095,0.095,0.04219
+France,FR,0.00023,Free Mobile,0.06027,0.0594,0.04219
+France,FR,0.00023,Globalstar Europe,0.05564,0.05564,0.04219
+France,FR,0.00023,Globalstar Europe,0.095,0.095,0.04219
+France,FR,0.00023,Globalstar Europe,0.095,0.095,0.04219
+France,FR,0.00023,Halys,0.05564,0.05564,0.04219
+France,FR,0.00023,Legos,0.05564,0.05564,0.04219
+France,FR,0.00023,LycaMobile,0.05564,0.05564,0.04219
+France,FR,0.00023,Mobiquithings,0.095,0.095,0.04219
+France,FR,0.00023,Mobiquithings,0.05564,0.05564,0.04219
+France,FR,0.00023,Mundio Mobile,0.05564,0.05564,0.04219
+France,FR,0.00023,NRJ Mobile,0.05564,0.05564,0.04219
+France,FR,0.00023,Omea Telecom,0.05828,0.05828,0.04219
+France,FR,0.00023,Orange,0.06027,0.0594,0.04219
+France,FR,0.00023,Orange France,0.05564,0.05564,0.04219
+France,FR,0.00023,Orange France,0.095,0.095,0.04219
+France,FR,0.00023,Orange France,0.095,0.095,0.04219
+France,FR,0.00023,Orange France,0.095,0.095,0.04219
+France,FR,0.00023,Orange France,0.095,0.095,0.04219
+France,FR,0.00023,SFR,0.095,0.095,0.04219
+France,FR,0.00023,SFR,0.05564,0.05564,0.04219
+France,FR,0.00023,SFR,0.095,0.095,0.04219
+France,FR,0.00023,SFR,0.095,0.095,0.04219
+France,FR,0.00023,SiSTEER,0.05564,0.05564,0.04219
+France,FR,0.00023,Syma Mobile,0.05564,0.05564,0.04219
+France,FR,0.00023,Transatel,0.05564,0.05564,0.04219
+France,FR,0.00023,Virgin Mobile,0.06027,0.0594,0.04219
+United Kingdom,GB,0.009,(aq) Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Airwave Solutions Ltd,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Amsuk Ltd,0.0253,0.0253,0.02848
+United Kingdom,GB,0.009,BT,0.0253,0.0253,0.02848
+United Kingdom,GB,0.009,BT,0.04504,0.04504,0.02848
+United Kingdom,GB,0.009,BT,0.04504,0.04504,0.02848
+United Kingdom,GB,0.009,BT OnePhone Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Cloud9 Mobile Communications Ltd,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,EE Orange,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,EE Orange,0.04507,0.04507,0.02848
+United Kingdom,GB,0.009,EE Tmobile,0.04507,0.04507,0.02848
+United Kingdom,GB,0.009,EE Tmobile,0.04507,0.04507,0.02848
+United Kingdom,GB,0.009,EE Tmobile,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,EE Tmobile,0.04507,0.04507,0.02848
+United Kingdom,GB,0.009,FleXtel Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Gamma Telecom Holdings Ltd,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,HAY SYSTEMS LIMITED,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Home Office,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Hutchison 3G Ltd,0.02683,0.02683,0.02848
+United Kingdom,GB,0.009,Hutchison 3G Ltd,0.04778,0.04778,0.02848
+United Kingdom,GB,0.009,Icron Network Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Jersey Airtel  Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Jersey Telecom,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Limitless Mobile Ltd,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Limitless Mobile Ltd,0.04507,0.04507,0.02848
+United Kingdom,GB,0.009,Lleida.net,0.02876,0.02876,0.02848
+United Kingdom,GB,0.009,Lycamobile UK Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Manx Telecom,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Marathon Telecom Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Mundio Mobile Limited,0.04507,0.04507,0.02848
+United Kingdom,GB,0.009,Mundio Mobile Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Other,0.02876,0.02876,0.02848
+United Kingdom,GB,0.009,Other,0.02876,0.02876,0.02848
+United Kingdom,GB,0.009,Other,0.02876,0.02876,0.02848
+United Kingdom,GB,0.009,Other,0.02876,0.02876,0.02848
+United Kingdom,GB,0.009,Other,0.02876,0.02876,0.02848
+United Kingdom,GB,0.009,Other,0.02876,0.02876,0.02848
+United Kingdom,GB,0.009,Other,0.02876,0.02876,0.02848
+United Kingdom,GB,0.009,Other,0.02876,0.02876,0.02848
+United Kingdom,GB,0.009,Sky UK Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Stour Marine Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Sure (Isle of Man) Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Sure (Jersey) Limited,0.04507,0.04507,
+United Kingdom,GB,0.009,Sure (Jersey) Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,TalkTalk Communications Limited,0.02546,0.02546,0.02848
+United Kingdom,GB,0.009,Teleena UK Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Telefonica UK Limited,0.04507,0.04507,0.02848
+United Kingdom,GB,0.009,Telefonica UK Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Telefonica UK Limited,0.04507,0.04507,0.02848
+United Kingdom,GB,0.009,Teleware Plc,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Tismi BV,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Truphone Ltd,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,UK Broadband Limited,0.04507,0.04507,
+United Kingdom,GB,0.009,UK Broadband Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Virgin Mobile Telecoms Limited,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Virgin Mobile Telecoms Limited,0.04507,0.04507,0.02848
+United Kingdom,GB,0.009,Virgin Mobile Telecoms Limited,0.04507,0.04507,0.02848
+United Kingdom,GB,0.009,Vodafone UK Ltd,0.02531,0.02531,0.02848
+United Kingdom,GB,0.009,Vodafone UK Ltd,0.04507,0.04507,0.02848
+United Kingdom,GB,0.009,Vodafone UK Ltd,0.04507,0.04507,
+Guatemala,GT,0.00326,Claro Guatemala,0.05992,0.05992,0.02457
+Guatemala,GT,0.00326,Comcel,0.05992,0.05992,0.02457
+Guatemala,GT,0.00326,Telefonica,0.05992,0.05992,0.02457
+Hong Kong,HK,0.00116,21Vianet Mobile Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,CITIC Telecom 1616 Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,CSL,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,CSL,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,CSL,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,CSL,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,CSL,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,China Mobile Hong Kong,0.10748,0.10526,0.04407
+Hong Kong,HK,0.00116,China Mobile Hong Kong Company Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,China Mobile Hong Kong Company Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,China Motion Telecom (HK) Limited,0.07819,0.07819,0.04407
+Hong Kong,HK,0.00116,China Telecom Global Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,China Unicom (Hong Kong) Operations Ltd,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,China-Hongkong Telecom Ltd,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,Delcom (HK) Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,Easco Telecommunications Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,Hong Kong Broadband Network Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,Hutchison Telecom Hong Kong Holdings Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,Hutchison Telecom Hong Kong Holdings Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,Hutchison Telecom Hong Kong Holdings Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,Hutchison Telecom Hong Kong Holdings Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,Lycamobile Hong Kong Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,Multi-byte Info,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,PCCW-HKT Telephone Limited,0.07819,0.07819,0.04407
+Hong Kong,HK,0.00116,PCCW-HKT Telephone Limited,0.07819,0.07819,0.04407
+Hong Kong,HK,0.00116,PCCW-HKT Telephone Limited,0.07819,0.07819,0.04407
+Hong Kong,HK,0.00116,SmarTone Mobile Communications Ltd,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,SmarTone Mobile Communications Ltd,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,SmarTone Mobile Communications Ltd,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,Tai Tung Mobile Phone Company Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,Tink Labs Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,Truphone (Hong Kong) Limited,0.07465,0.07465,0.04407
+Hong Kong,HK,0.00116,Webbing Hong Kong Limited,0.07465,0.07465,0.04407
+Honduras,HN,0.00419,Claro,0.06097,0.0847,0.03626
+Honduras,HN,0.00419,Claro,0.0779,0.0779,0.03626
+Honduras,HN,0.00419,Digicel,0.06097,0.0847,0.03626
+Honduras,HN,0.00419,Digicel Honduras,0.0779,0.0779,0.03626
+Honduras,HN,0.00419,HONDUTEL,0.0779,0.0779,0.03626
+Honduras,HN,0.00419,Tigo,0.0779,0.0779,0.03626
+Croatia,HR,0.00155,T-HT,0.07112,0.07112,0.03688
+Croatia,HR,0.00155,Tele2,0.07112,0.07112,0.03688
+Croatia,HR,0.00155,VIPnet d.o.o.,0.07112,0.07112,0.03688
+Hungary,HU,0.00465,Invitech Megoldasok Zrt.,0.12258,0.12258,0.05026
+Hungary,HU,0.00465,Magyar Telekom Nyrt.,0.12258,0.12258,0.05026
+Hungary,HU,0.00465,Telenor Magyarorszag Zrt.,0.12258,0.12258,0.05026
+Hungary,HU,0.00465,Telenor Magyarorszag Zrt.,0.12258,0.12258,0.05026
+Hungary,HU,0.00465,UPC Hungary,0.12258,0.12258,0.05026
+Hungary,HU,0.00465,Vodafone Magyarorszag Zrt.,0.12258,0.12258,0.05026
+Indonesia,ID,0.00047,Axis,0.0293,0.0293,0.04633
+Indonesia,ID,0.00047,Bakrie Telecom,0.07673,0.08089,0.04633
+Indonesia,ID,0.00047,Ceria,0.0293,0.0293,0.04633
+Indonesia,ID,0.00047,Indosat,0.0293,0.0293,0.04633
+Indonesia,ID,0.00047,Indosat,0.03502,0.03502,0.04633
+Indonesia,ID,0.00047,Indosat,0.03502,0.03502,0.04633
+Indonesia,ID,0.00047,PT Hutchison 3 Indonesia,0.0293,0.0293,0.04633
+Indonesia,ID,0.00047,PT Pasifik Satelit Nusantara (PSN),0.01944,0.00306,
+Indonesia,ID,0.00047,PT XL Axiata Tbk,0.0293,0.0293,0.04633
+Indonesia,ID,0.00047,Smartfren,0.0293,0.0293,0.04633
+Indonesia,ID,0.00047,Smartfren,0.03502,0.03502,0.04633
+Indonesia,ID,0.00047,Telkomsel,0.113,0.09668,0.04633
+Indonesia,ID,0.00047,Telkomsel,0.09455,0.08089,0.04633
+Ireland,IE,0.00116,Carphone Warehouse,0.09924,0.09924,0.04069
+Ireland,IE,0.00116,Liffey Telecom Ltd,0.09924,0.09924,0.04069
+Ireland,IE,0.00116,Lycamobile Ireland Ltd,0.09924,0.09924,0.04069
+Ireland,IE,0.00116,Meteor,0.09924,0.09924,0.04069
+Ireland,IE,0.00116,Meteor,0.09924,0.09924,0.04069
+Ireland,IE,0.00116,Three Ireland (Hutchison) Ltd,0.09924,0.09924,0.04069
+Ireland,IE,0.00116,Three Ireland Services (Hutchison) Ltd,0.09924,0.09924,0.04069
+Ireland,IE,0.00116,Virgin Media Ireland Ltd,0.09924,0.09924,0.04069
+Ireland,IE,0.00116,Vodafone Ireland plc,0.09924,0.09924,0.04069
+Israel,IL,0.00279,AZI Communications,0.00868,0.00868,0.0058
+Israel,IL,0.00279,Alon Cellular,0.00868,0.00868,0.0058
+Israel,IL,0.00279,Annatel Mobile,0.0058,0.01348,
+Israel,IL,0.00279,Beezz Communication Solutions,0.00868,0.00868,0.0058
+Israel,IL,0.00279,Cellact Communications,0.00868,0.00868,0.0058
+Israel,IL,0.00279,Cellcom,0.00868,0.00868,0.0058
+Israel,IL,0.00279,Free Telecom,0.00868,0.00868,0.0058
+Israel,IL,0.00279,Golan Telecom,0.00868,0.00868,0.0058
+Israel,IL,0.00279,HomeCell,0.00868,0.00868,0.0058
+Israel,IL,0.00279,Hot Mobile,0.00868,0.00868,0.0058
+Israel,IL,0.00279,Hot Mobile,0.00868,0.00868,
+Israel,IL,0.00279,Hot Mobile,0.00868,0.00868,0.0058
+Israel,IL,0.00279,Jawwal Palestine,0.00868,0.00868,0.0058
+Israel,IL,0.00279,LB Annatel Ltd,0.00868,0.00868,
+Israel,IL,0.00279,Partner,0.00868,0.00868,0.0058
+Israel,IL,0.00279,Pelephone,0.00868,0.00868,0.0058
+Israel,IL,0.00279,Pelephone,0.01414,0.01348,0.0058
+Israel,IL,0.00279,Rami Levy Communications,0.00868,0.00868,0.0058
+Israel,IL,0.00279,Wataniya,0.00868,0.00868,0.0058
+Israel,IL,0.00279,Xphone,0.01414,0.01348,0.0058
+India,IN,0.00187,All Networks,0.00223,0.00223,0.00223
+Italy,IT,0.00465,British Telecom Italia,0.06814,0.06814,0.03432
+Italy,IT,0.00465,Digi Mobil,0.06814,0.06814,0.03432
+Italy,IT,0.00465,Elsacom,0.07004,0.07004,0.03432
+Italy,IT,0.00465,Enel S.p.A.,0.06814,0.06814,0.03432
+Italy,IT,0.00465,FastWeb S.p.A.,0.06814,0.06814,0.03432
+Italy,IT,0.00465,H3G S.p.A.,0.08143,0.08143,0.03432
+Italy,IT,0.00465,H3G S.p.A.,0.08143,0.08143,0.03432
+Italy,IT,0.00465,H3G S.p.A.,0.06814,0.06814,0.03432
+Italy,IT,0.00465,Iliad,0.06814,0.06814,0.03432
+Italy,IT,0.00465,Intermatica S.r.l.,0.06814,0.06814,0.03432
+Italy,IT,0.00465,Lycamobile S.r.L.,0.06814,0.06814,0.03432
+Italy,IT,0.00465,Noverca Italia S.r.l.,0.06814,0.06814,0.03432
+Italy,IT,0.00465,RFI-Rete Ferroviaria Italiana,0.06814,0.06814,0.03432
+Italy,IT,0.00465,Telecom Italia S.p.A.,0.06814,0.06814,0.03432
+Italy,IT,0.00465,Telecom Italia S.p.A.,0.08143,0.08143,0.03432
+Italy,IT,0.00465,Telecom Italia S.p.A.,0.08143,0.08143,0.03432
+Italy,IT,0.00465,Telespazio S.p.A.,0.06814,0.06814,0.03432
+Italy,IT,0.00465,VEI s.r.l.,0.07004,0.07004,0.03432
+Italy,IT,0.00465,Vodafone Omnitel N.V.,0.08143,0.08143,0.03432
+Italy,IT,0.00465,Vodafone Omnitel N.V.,0.06814,0.06814,0.03432
+Italy,IT,0.00465,Wind Telecomunicazioni S.p.A.,0.08143,0.08143,0.03432
+Italy,IT,0.00465,Wind Telecomunicazioni S.p.A.,0.06814,0.06814,0.03432
+Japan,JP,0.085,KDDI,0.06278,0.06278,0.03516
+Japan,JP,0.085,KDDI,0.06278,0.06278,0.03516
+Japan,JP,0.085,KDDI,0.08575,0.08575,0.03516
+Japan,JP,0.085,KDDI,0.08575,0.08575,0.03516
+Japan,JP,0.085,KDDI,0.08575,0.08575,0.03516
+Japan,JP,0.085,KDDI,0.08575,0.08575,0.03516
+Japan,JP,0.085,KDDI,0.08575,0.08575,0.03516
+Japan,JP,0.085,KDDI,0.06278,0.06278,0.03516
+Japan,JP,0.085,KDDI,0.06278,0.06278,0.03516
+Japan,JP,0.085,KDDI,0.08575,0.08575,0.03516
+Japan,JP,0.085,KDDI,0.08575,0.08575,0.03516
+Japan,JP,0.085,KDDI,0.08575,0.08575,0.03516
+Japan,JP,0.085,KDDI,0.08575,0.08575,0.03516
+Japan,JP,0.085,KDDI,0.08575,0.08575,0.03516
+Japan,JP,0.085,KDDI,0.08575,0.08575,0.03516
+Japan,JP,0.085,KDDI,0.08575,0.08575,0.03516
+Japan,JP,0.085,KDDI,0.06278,0.06278,0.03516
+Japan,JP,0.085,KDDI,0.06278,0.06278,0.03516
+Japan,JP,0.085,KDDI,0.06278,0.06278,0.03516
+Japan,JP,0.085,KDDI,0.06278,0.06278,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.06278,0.06278,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.09826,0.09826,
+Japan,JP,0.085,NTT DoCoMo,0.09826,0.09826,
+Japan,JP,0.085,NTT DoCoMo,0.09826,0.09826,
+Japan,JP,0.085,NTT DoCoMo,0.09826,0.09826,
+Japan,JP,0.085,NTT DoCoMo,0.09826,0.09826,
+Japan,JP,0.085,NTT DoCoMo,0.09826,0.09826,
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.09826,0.09826,
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.09826,0.09826,
+Japan,JP,0.085,NTT DoCoMo,0.09826,0.09826,
+Japan,JP,0.085,NTT DoCoMo,0.09826,0.09826,
+Japan,JP,0.085,NTT DoCoMo,0.09826,0.09826,
+Japan,JP,0.085,NTT DoCoMo,0.08575,0.08575,0.03516
+Japan,JP,0.085,NTT DoCoMo,0.09826,0.09826,
+Japan,JP,0.085,Okinawa Cellular Telephone Company,0.06278,0.06278,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.09826,0.09826,
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.06278,0.06278,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.09826,0.09826,
+Japan,JP,0.085,Softbank Mobile Corp,0.09826,0.09826,
+Japan,JP,0.085,Softbank Mobile Corp,0.09826,0.09826,
+Japan,JP,0.085,Softbank Mobile Corp,0.09826,0.09826,
+Japan,JP,0.085,Softbank Mobile Corp,0.09826,0.09826,
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+Japan,JP,0.085,Softbank Mobile Corp,0.08575,0.08575,0.03516
+South Korea,KR,0.00047,KT Direct,0.02958,0.02958,0.01259
+South Korea,KR,0.00047,KT Direct,0.02958,0.02958,0.01259
+South Korea,KR,0.00047,KT Direct,0.02958,0.02958,0.01259
+South Korea,KR,0.00047,Korea Cable Telecom,0.02414,0.0307,0.01259
+South Korea,KR,0.00047,LG Dacom,0.02958,0.02958,0.01259
+South Korea,KR,0.00047,SK Telecom,0.02958,0.02958,0.01259
+South Korea,KR,0.00047,SK Telecom,0.02958,0.02958,0.01259
+Lithuania,LT,0.00698,Bite Lietuva UAB,0.04941,0.04941,0.02206
+Lithuania,LT,0.00698,Lithuanian Railways,0.04073,0.0538,0.02206
+Lithuania,LT,0.00698,Mediafon UAB,0.04941,0.04941,0.02206
+Lithuania,LT,0.00698,Tele2 UAB,0.04941,0.04941,0.02206
+Lithuania,LT,0.00698,Telia Lietuva AB,0.04941,0.04941,0.02206
+Latvia,LV,0.00093,Bite,0.07763,0.07763,0.03408
+Latvia,LV,0.00093,IZZI,0.07763,0.07763,0.03408
+Latvia,LV,0.00093,LMT,0.07763,0.07763,0.03408
+Latvia,LV,0.00093,MTS GSM,0.07763,0.07763,0.03408
+Latvia,LV,0.00093,TELE2,0.07763,0.07763,0.03408
+Latvia,LV,0.00093,TRIATEL,0.07763,0.07763,0.03408
+Latvia,LV,0.00093,Unknown Cellular Latvia,0.07763,0.07763,0.03408
+Latvia,LV,0.00093,camelmobile,0.07763,0.07763,0.03408
+Mexico,MX,0.009,AT&T,0.02648,0.02648,0.01086
+Mexico,MX,0.009,AT&T,0.0162,0.0162,0.01086
+Mexico,MX,0.009,AT&T,0.02648,0.02648,0.01086
+Mexico,MX,0.009,AT&T,0.02648,0.02648,0.01086
+Mexico,MX,0.009,AT&T,0.02648,0.02648,0.01086
+Mexico,MX,0.009,AT&T,0.02648,0.02648,0.01086
+Mexico,MX,0.009,AT&T,0.02648,0.02648,0.01086
+Mexico,MX,0.009,AT&T,0.02648,0.02648,0.01086
+Mexico,MX,0.009,Altan Redes,0.0162,0.0162,0.01086
+Mexico,MX,0.009,Axtel S.A.B. De C.V.,0.0162,0.0162,0.01086
+Mexico,MX,0.009,Maxcom Telecomunicaciones, S.A.B. de C.V.,0.01086,0.01811,
+Mexico,MX,0.009,Movistar,0.0162,0.0162,0.01086
+Mexico,MX,0.009,NII Digital S. de R.L. de C.V.,0.0162,0.0162,0.01086
+Mexico,MX,0.009,NII Digital S. de R.L. de C.V.,0.02648,0.02648,0.01086
+Mexico,MX,0.009,NII Digital S. de R.L. de C.V.,0.02648,0.02648,0.01086
+Mexico,MX,0.009,Radiomovil Dipsa S.A. De C.V.,0.0162,0.0162,0.01086
+Mexico,MX,0.009,Radiomovil Dipsa S.A. De C.V.,0.02648,0.02648,0.01086
+Mexico,MX,0.009,Servicios De Acceso Inalambricos S.A. De C.V.,0.0162,0.0162,0.01086
+Mexico,MX,0.009,Servicios De Acceso Inalambricos S.A. De C.V.,0.02648,0.02648,0.01086
+Mexico,MX,0.009,movistar,0.0162,0.0162,0.01086
+Malaysia,MY,0.00349,Altel  Communications Sdn Bhd,0.06672,0.05777,0.03937
+Malaysia,MY,0.00349,Baraka Telecom Sdn Bhd,0.06672,0.05777,0.03937
+Malaysia,MY,0.00349,Celcom,0.09602,0.08314,0.03937
+Malaysia,MY,0.00349,Celcom,0.06672,0.05777,0.03937
+Malaysia,MY,0.00349,DiGi,0.05389,0.05777,0.03937
+Malaysia,MY,0.00349,DiGi Telecommunications Sdn Bhd,0.06672,0.05777,0.03937
+Malaysia,MY,0.00349,DiGi Telecommunications Sdn Bhd,0.09602,0.08314,0.03937
+Malaysia,MY,0.00349,Electcoms Wireless Sdn Bhd,0.06672,0.05777,0.03937
+Malaysia,MY,0.00349,Maxis Mobile Services Sdn Bhd,0.06672,0.05777,0.03937
+Malaysia,MY,0.00349,Maxis Mobile Services Sdn Bhd,0.09602,0.08314,0.03937
+Malaysia,MY,0.00349,Packet One Networks Sdn Bhd,0.06672,0.05777,0.03937
+Malaysia,MY,0.00349,Samata Communications,0.06672,0.05777,0.03937
+Malaysia,MY,0.00349,Telekom Malaysia Bhd,0.09602,0.08314,0.03937
+Malaysia,MY,0.00349,Telekom Malaysia Bhd,0.06672,0.05777,0.03937
+Malaysia,MY,0.00349,Telin,0.06672,0.05777,
+Malaysia,MY,0.00349,Tune Talk,0.06672,0.05777,0.03937
+Malaysia,MY,0.00349,U Mobile Sdn Bhd,0.06672,0.05777,0.03937
+Malaysia,MY,0.00349,YTL Communications Sdn Bhd,0.06672,0.05777,0.03937
+Netherlands,NL,0.00698,AGMS Netherlands B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Aspider Solutions Nederland B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,BodyTrace Netherlands B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Elephant Talk Comm. Premium Rate Serv. Neth. B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Intercity Mobile Communications B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,KPN Mobile The Netherlands B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,KPN Mobile The Netherlands B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,KPN Mobile The Netherlands B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,KPN Mobile The Netherlands B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,KPN Mobile The Netherlands B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,KPN Mobile The Netherlands B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,KPN Mobile The Netherlands B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Lancelot B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Lycamobile Netherlands Limited,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Private Mobility Nederland B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Private Mobility Nederland B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Private Mobility Nederland B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Roamware (Netherlands) B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,T-Mobile Netherlands B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,T-Mobile Netherlands B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Tele2 Nederland B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Teleena Holding B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,UPC Nederland B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Vodafone Libertel B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Voiceworks B.V.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Voxbone S.A.,0.12758,0.12758,0.06658
+Netherlands,NL,0.00698,Ziggo B.V.,0.12758,0.12758,0.06658
+Norway,NO,0.00233,Com4 AS,0.08663,0.08663,0.03552
+Norway,NO,0.00233,ICE,0.08663,0.08663,0.03552
+Norway,NO,0.00233,ICE Norge AS,0.08663,0.08663,0.03552
+Norway,NO,0.00233,Jernbaneverket,0.08663,0.08663,0.03552
+Norway,NO,0.00233,Jernbaneverket,0.08663,0.08663,0.03552
+Norway,NO,0.00233,Lycamobile Norway Ltd,0.08663,0.08663,0.03552
+Norway,NO,0.00233,Network Norway AS,0.08663,0.08663,0.03552
+Norway,NO,0.00233,Network Norway AS,0.08663,0.08663,0.03552
+Norway,NO,0.00233,Network Norway AS,0.08663,0.08663,0.03552
+Norway,NO,0.00233,Phonero AS,0.08663,0.08663,0.03552
+Norway,NO,0.00233,TDC AS,0.08663,0.08663,0.03552
+Norway,NO,0.00233,Tele2 Norge AS,0.08663,0.08663,0.03552
+Norway,NO,0.00233,Telenor,0.08663,0.08663,0.03552
+Norway,NO,0.00233,Telenor Norge AS,0.08663,0.08663,0.03552
+Norway,NO,0.00233,Teletopia,0.08663,0.08663,0.03552
+Norway,NO,0.00233,TeliaSonera Norge AS,0.08663,0.08663,0.03552
+New Zealand,NZ,0.0904,Telecom New Zealand Limited,0.14795,0.14795,0.06637
+New Zealand,NZ,0.0904,Telecom New Zealand Limited,0.14795,0.14795,0.06637
+New Zealand,NZ,0.0904,Telecom New Zealand Limited,0.14795,0.14795,0.06637
+New Zealand,NZ,0.0904,Two Degrees Mobile Limited,0.14795,0.14795,0.06637
+New Zealand,NZ,0.0904,Vodafone New Zealand Limited,0.14795,0.14795,0.06637
+New Zealand,NZ,0.0904,Vodafone New Zealand Limited,0.14795,0.14795,0.06637
+New Zealand,NZ,0.0904,Woosh,0.12146,0.16014,0.06637
+Philippines,PH,0.02616,ACES,0.03215,0.02995,0.00643
+Philippines,PH,0.02616,Globe Telecom,0.03215,0.02995,0.00643
+Philippines,PH,0.02616,Globe Telecom,0.01568,0.0146,0.00643
+Philippines,PH,0.02616,Nextel,0.0175,0.02995,0.00643
+Philippines,PH,0.02616,Smart,0.03215,0.02995,0.00643
+Philippines,PH,0.02616,Smart,0.01568,0.0146,0.00643
+Philippines,PH,0.02616,Sun Cellular,0.03215,0.02995,0.00643
+Poland,PL,0.00233,AMD Telecom S.A.,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Aero 2 Sp. Z.o.o.,0.04295,0.04251,0.01761
+Poland,PL,0.00233,Aero 2 Sp. Z.o.o.,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Agile Telecom S.P.A.,0.03913,0.03873,0.01761
+Poland,PL,0.00233,CallFreedom Sp. z.o.o.,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Compatel Limited,0.03913,0.03873,0.01761
+Poland,PL,0.00233,E-Telko,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Ez Phone Mobile Sp. z.o.o.,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Interactive Digital Media GmbH,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Lycamobile Sp. z o.o.,0.03913,0.03873,0.01761
+Poland,PL,0.00233,MobiWeb Telecom Limited,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Mobyland,0.03222,0.03873,0.01761
+Poland,PL,0.00233,Mundio Mobile,0.03913,0.03873,0.01761
+Poland,PL,0.00233,NORDISK Polska,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Netia,0.03222,0.03873,0.01761
+Poland,PL,0.00233,NextGen Mobile Ltd,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Orange,0.03222,0.03873,0.01761
+Poland,PL,0.00233,Orange Polska S.A.,0.03913,0.03873,0.01761
+Poland,PL,0.00233,P4,0.03913,0.03873,0.01761
+Poland,PL,0.00233,P4,0.04295,0.04251,0.01761
+Poland,PL,0.00233,PKP Polski Linie Kolejowe S.A.,0.03913,0.03873,0.01761
+Poland,PL,0.00233,POLSAT,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Polkomtel S.A.,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Rebtel Poland Sp. z o.o.,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Sferia S.A.,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Sferia S.A.,0.04295,0.04251,0.01761
+Poland,PL,0.00233,Sferia S.A.,0.04295,0.04251,0.01761
+Poland,PL,0.00233,T-Mobile Polska S.A.,0.03913,0.03873,0.01761
+Poland,PL,0.00233,T-Mobile Polska S.A.,0.04295,0.04251,0.01761
+Poland,PL,0.00233,Teleena Holding BV,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Virgin Mobile Polska Sp. z o.o.,0.03913,0.03873,0.01761
+Poland,PL,0.00233,Voxbone S.A.,0.03913,0.03873,0.01761
+Poland,PL,0.00233,wRodzinie,0.03222,0.03873,0.01761
+Puerto Rico,PR,0.00047,North Sight Communications,0.00421,0.00421,0.00173
+Puerto Rico,PR,0.00047,PR Wireless Inc. DBA Open Mobile,0.0019,0.0019,0.00173
+Puerto Rico,PR,0.00047,Puerto Rico Telco dba Claro Puerto Rico,0.0019,0.0019,0.00173
+Portugal,PT,0.00326,Lycamobile Portugal LDA.,0.03031,0.02961,0.01425
+Portugal,PT,0.00326,MEO - Services de Comunications e Multimedia S.A.,0.03475,0.03395,0.01425
+Portugal,PT,0.00326,MEO - Services de Comunications e Multimedia S.A.,0.03031,0.02961,0.01425
+Portugal,PT,0.00326,MEO - Services de Comunications e Multimedia S.A.,0.03475,0.03395,0.01425
+Portugal,PT,0.00326,Mundio Mobile,0.03031,0.02961,0.01425
+Portugal,PT,0.00326,NOS Comunicacoes S.A.,0.03031,0.02961,0.01425
+Portugal,PT,0.00326,Vodafone Portugal - Comunicacoes Pessoais S.A.,0.03031,0.02961,0.01425
+Portugal,PT,0.00326,Vodafone Portugal - Comunicacoes Pessoais S.A.,0.03475,0.03395,
+Romania,RO,0.00186,2K Telecom S.R.L.,0.08568,0.08139,0.03513
+Romania,RO,0.00186,Enigma System.Net S.R.L.,0.08568,0.08139,0.03513
+Romania,RO,0.00186,Lycamobile,0.08568,0.08139,0.03513
+Romania,RO,0.00186,Orange Romania,0.08568,0.08139,0.03513
+Romania,RO,0.00186,RCS & RDS S.A.,0.08568,0.08139,0.03513
+Romania,RO,0.00186,Telekom Romania Communications S.A.,0.08568,0.08139,0.03513
+Romania,RO,0.00186,Telekom Romania Mobile Communications S.A.,0.08568,0.08139,0.03513
+Romania,RO,0.00186,Telekom Romania Mobile Communications S.A.,0.08568,0.08139,0.03513
+Romania,RO,0.00186,Telekom Romania Mobile Communications S.A.,0.08568,0.08139,0.03513
+Romania,RO,0.00186,Vodafone Romania,0.08568,0.08139,0.03513
+Russia,RU,0.06977,A-Mobile,0.07519,0.07519,0.04721
+Russia,RU,0.06977,Baykalwestcom,0.04404,0.04404,0.04721
+Russia,RU,0.06977,Ekaterinburg-2000 LLC,0.04404,0.04404,0.04721
+Russia,RU,0.06977,Enisey Telecom,0.04402,0.04402,0.04721
+Russia,RU,0.06977,Global Telecom,0.04404,0.04404,0.045
+Russia,RU,0.06977,Internod Ltd,0.04404,0.04404,0.04721
+Russia,RU,0.06977,Iridium,0.04404,0.04404,0.04721
+Russia,RU,0.06977,K-Telecom,0.04404,0.04404,0.04721
+Russia,RU,0.06977,Kodotel,0.05314,0.06134,0.04721
+Russia,RU,0.06977,Krymtelekom,0.04404,0.04404,0.04721
+Russia,RU,0.06977,MTS,0.05314,0.06134,0.04721
+Russia,RU,0.06977,MTS,0.05314,0.06134,0.04721
+Russia,RU,0.06977,MTS,0.05314,0.06134,0.04721
+Russia,RU,0.06977,MTS,0.05314,0.06134,0.04721
+Russia,RU,0.06977,MTT,0.04404,0.04404,0.04721
+Russia,RU,0.06977,MegaFon,0.05314,0.06134,0.04721
+Russia,RU,0.06977,MegaFon,0.07519,0.07434,0.04721
+Russia,RU,0.06977,MegaFon,0.05314,0.06134,0.04721
+Russia,RU,0.06977,MegaFon,0.05314,0.06134,0.04721
+Russia,RU,0.06977,MegaFon,0.05314,0.06134,0.04721
+Russia,RU,0.06977,MegaFon Central Branch,0.04404,0.04354,0.04721
+Russia,RU,0.06977,MegaFon Central Branch,0.07519,0.07434,0.04721
+Russia,RU,0.06977,Mobile TeleSystems (MTS),0.04404,0.04404,0.04721
+Russia,RU,0.06977,Mobile TeleSystems (MTS),0.07519,0.07519,0.04721
+Russia,RU,0.06977,Nizhegorodskaya Cellular Communications,0.04402,0.04402,0.04721
+Russia,RU,0.06977,Other,0.04404,0.04404,0.04721
+Russia,RU,0.06977,Other,0.05314,0.06134,0.04721
+Russia,RU,0.06977,Other,0.04404,0.04404,0.04721
+Russia,RU,0.06977,Other,0.05314,0.06134,0.04721
+Russia,RU,0.06977,Other,0.05314,0.06134,0.04721
+Russia,RU,0.06977,Other,0.05314,0.06134,0.04721
+Russia,RU,0.06977,Other,0.05314,0.06134,0.04721
+Russia,RU,0.06977,Other,0.05314,0.06134,0.04721
+Russia,RU,0.06977,Other,0.05314,0.06134,0.04721
+Russia,RU,0.06977,Other,0.05314,0.06134,0.04721
+Russia,RU,0.06977,Other,0.05314,0.06134,0.04721
+Russia,RU,0.06977,SMARTS,0.04402,0.04402,0.04721
+Russia,RU,0.06977,SMARTS,0.07517,0.07517,0.04721
+Russia,RU,0.06977,Sevastopol Telecom,0.04404,0.04404,0.04721
+Russia,RU,0.06977,Skartel,0.04404,0.04404,0.04721
+Russia,RU,0.06977,Sky-1800,0.04402,0.04402,0.04721
+Russia,RU,0.06977,SkyLink,0.05314,0.06134,0.04721
+Russia,RU,0.06977,Sprint,0.04404,0.04404,0.04721
+Russia,RU,0.06977,TMT,0.05314,0.06134,0.04721
+Russia,RU,0.06977,Tele2,0.07519,0.07519,0.04721
+Russia,RU,0.06977,Tele2,0.04404,0.04404,0.04721
+Russia,RU,0.06977,Tele2,0.07519,0.07519,0.04721
+Russia,RU,0.06977,Tele2,0.05314,0.06134,0.04721
+Russia,RU,0.06977,Tinkoff Mobile,0.04404,0.04404,0.04721
+Russia,RU,0.06977,Vainakh Telecom Company,0.04404,0.04404,0.04721
+Russia,RU,0.06977,Vimpel Communications,0.04404,0.04404,0.04721
+Russia,RU,0.06977,VimpelCom,0.04721,0.06134,
+Russia,RU,0.06977,Your Mobile Technology Ltd.,0.04404,0.04404,0.04721
+Sweden,SE,0.00023,42 Telecom AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,42 Telecom AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Alltele Foretag Sverige AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Beepsend AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Borderlight AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,CLX Networks AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Compatel Limited,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,CoolTEL Aps,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Direct2Internet AB,0.07551,0.07551,
+Sweden,SE,0.00023,Eu Tel AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Fogg Mobile AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Generic Mobile Systems Sweden AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Gotalandsnatet AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Hi3G Access AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,INFOBIP Limited,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Interactive Digital Media GmbH,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Limitless Mobile AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Lycamobile Sweden Limited,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Mercury International Carrier Services,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Messagebird B.V.,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Mobile Arts AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Mobiweb Ltd,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Monty UK Global Limited,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Mundio Mobile (Sweden) Limited,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Netett Sverige AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,NextGen Mobile Ltd,0.07631,0.07551,
+Sweden,SE,0.00023,Other,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Other,0.07512,0.07551,0.03129
+Sweden,SE,0.00023,Pro Net Telecommunications Services Ltd.,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,ReWiCom Scandinavia AB,0.07631,0.07551,
+Sweden,SE,0.00023,RebTel Networks AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,SMS Provider Corp.,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Spirius AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Spring Mobil AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,TDC Sverige AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Tele2 Sverige AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Telenor,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Telenor,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Telenor Sverige AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Telenor Sverige AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Telenor Sverige AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Telia Company AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,TeliaSonera Sverige AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Trafikverket ICT,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Viatel Sweden AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Voxbone SA,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Wireless Maingate Nordic AB,0.07631,0.07551,0.03129
+Sweden,SE,0.00023,Wireless Maingate Nordic AB,0.07631,0.07551,0.03129
+Singapore,SG,0.04651,GRID Comms,0.06243,0.06192,0.02575
+Singapore,SG,0.04651,Liberty Wireless,0.06243,0.06192,0.02575
+Singapore,SG,0.04651,M1,0.06243,0.06192,0.02575
+Singapore,SG,0.04651,M1,0.06243,0.06192,
+Singapore,SG,0.04651,SingTel Mobile,0.06243,0.06192,0.02575
+Singapore,SG,0.04651,SingTel Mobile,0.06243,0.06192,0.02575
+Singapore,SG,0.04651,SingTel Mobile,0.06243,0.06192,0.02575
+Singapore,SG,0.04651,StarHub,0.06243,0.06192,0.02575
+Singapore,SG,0.04651,StarHub Mobile,0.06243,0.06192,0.02575
+Singapore,SG,0.04651,StarHub Mobile,0.06241,0.06192,0.02575
+Singapore,SG,0.04651,TPG Telecom,0.06243,0.06192,0.02575
+Slovenia,SI,0.00698,A1 Slovenija,0.04443,0.04443,0.01822
+Slovenia,SI,0.00698,Compatel Limited,0.04443,0.04443,0.01822
+Slovenia,SI,0.00698,SZ - Infrastruktura d.o.o.,0.04443,0.04443,0.01822
+Slovenia,SI,0.00698,T - 2 d.o.o.,0.04443,0.04443,0.01822
+Slovenia,SI,0.00698,Telekom Slovenije d.d.,0.04443,0.04443,0.01822
+Slovenia,SI,0.00698,Telemach d.o.o.,0.04443,0.04443,0.01822
+Slovakia,SK,0.00465,O2 Slovakia s.r.o.,0.0918,0.0918,0.03764
+Slovakia,SK,0.00465,Orange Slovensko a.s.,0.0918,0.0918,0.03764
+Slovakia,SK,0.00465,Orange Slovensko a.s.,0.0918,0.0918,0.03764
+Slovakia,SK,0.00465,SWAN a.s.,0.0918,0.0918,0.03764
+Slovakia,SK,0.00465,Slovak Telekom a.s.,0.0918,0.0918,0.03764
+Slovakia,SK,0.00465,Slovak Telekom a.s.,0.0918,0.0918,0.03764
+Thailand,TH,0.009,ACeS,0.0166,0.0166,0.01121
+Thailand,TH,0.009,Advanced Wireless Network,0.0166,0.0166,0.01121
+Thailand,TH,0.009,Advanced Wireless Network,0.02226,0.02226,0.01121
+Thailand,TH,0.009,Communications Authority of Thailand,0.0166,0.0166,0.01121
+Thailand,TH,0.009,Communications Authority of Thailand,0.02226,0.02226,0.01121
+Thailand,TH,0.009,DTAC,0.0166,0.0166,0.01121
+Thailand,TH,0.009,DTAC TriNet,0.0166,0.0166,0.01121
+Thailand,TH,0.009,Digital Phone Co.,0.0166,0.0166,0.01121
+Thailand,TH,0.009,Real Future,0.0166,0.0166,0.01121
+Thailand,TH,0.009,TOT,0.0166,0.0166,0.01121
+Thailand,TH,0.009,TOT,0.02226,0.02226,0.01121
+Thailand,TH,0.009,True Move,0.01272,0.02038,0.01121
+Thailand,TH,0.009,True Move,0.0166,0.0166,0.01121
+Turkey,TR,0.009,AVEA,0.00398,0.00379,0.00275
+Turkey,TR,0.009,AVEA,0.0067,0.00639,0.00275
+Turkey,TR,0.009,TURKCELL,0.00398,0.00379,0.00275
+Turkey,TR,0.009,Turkcell,0.00318,0.00379,0.00275
+Turkey,TR,0.009,Vodafone,0.00318,0.00379,0.00275
+Turkey,TR,0.009,Vodafone Telecommunications Inc.,0.00398,0.00379,0.00275
+Taiwan,TW,0.0065,Asia Pacific Telecom Group,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,Chunghwa Telecom LDM,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,Chunghwa Telecom LDM,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,FITEL,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,FITEL,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,FITEL,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,FITEL,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,Far EasTone,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,Far EasTone,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,Far EasTone,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,Far EasTone,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,Far EasTone,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,Far EasTone,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,Taiwan Mobile Co Ltd.,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,Taiwan Mobile Co Ltd.,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,Taiwan Mobile Co Ltd.,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,Taiwan Star Telecom,0.05917,0.05917,0.0274
+Taiwan,TW,0.0065,VIBO,0.06682,0.06682,0.0274
+Ukraine,UA,0.00155,Astelit,0.08958,0.08958,0.04776
+Ukraine,UA,0.00155,Golden Telecom (GT),0.08958,0.08958,0.04776
+Ukraine,UA,0.00155,ITC,0.09107,0.11075,0.04776
+Ukraine,UA,0.00155,International Telecommunication,0.08958,0.08958,0.04776
+Ukraine,UA,0.00155,Kyivstar,0.08958,0.08958,0.04776
+Ukraine,UA,0.00155,Kyivstar,0.08958,0.08958,0.04776
+Ukraine,UA,0.00155,MTS,0.08958,0.08958,0.04776
+Ukraine,UA,0.00155,Telesystems of Ukraine,0.08958,0.08958,0.04776
+Ukraine,UA,0.00155,Utel,0.08958,0.08958,0.04776
+United States,US,0.0075,All Networks,0.00645,0.00645,0.00645
+South Africa,ZA,0.00023,CELL C,0.02421,0.02421,0.00993
+South Africa,ZA,0.00023,MTN,0.02421,0.02421,0.00993
+South Africa,ZA,0.00023,MTN,0.02421,0.02421,0.00993
+South Africa,ZA,0.00023,Telekom Mobile,0.02421,0.02421,0.00993
+South Africa,ZA,0.00023,Vodacom SA,0.02421,0.02421,0.00993
+South Africa,ZA,0.00023,Wireless Business Solutions,0.02421,0.02421,0.00993
+South Africa,ZA,0.00023,Wireless Business Solutions,0.02421,0.02421,0.00993
+South Africa,ZA,0.00023,Wireless Business Solutions,0.02421,0.02421,0.00993
+South Africa,ZA,0.00023,Wireless Business Solutions,0.02421,0.02421,0.00993
+South Africa,ZA,0.00023,Wirels Connect,0.02421,0.02421,0.00993

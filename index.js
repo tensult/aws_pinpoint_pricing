@@ -13,7 +13,7 @@ for (let countryCode in countryCodeToName) {
         continue;
     }
     for (let countryOutBoundPrice of countryOutBoundPrices) {
-        const priceForCountry = `${countryCodeToName[countryCode]},${countryCode},${countryInboundPrice},${countryOutBoundPrice.name},${countryOutBoundPrice.transPrice},${countryOutBoundPrice.promoPrice},${countryOutBoundPrice.otpPrice || ""}`;
+        const priceForCountry = `${countryCodeToName[countryCode]},${countryCode},${countryInboundPrice},${countryOutBoundPrice.name},${countryOutBoundPrice.transPrice},${countryOutBoundPrice.promoPrice},${countryOutBoundPrice.otpPrice || "NA"}`;
         priceList.push(priceForCountry);
     }
 }

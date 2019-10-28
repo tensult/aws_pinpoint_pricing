@@ -5,7 +5,7 @@ const countryCodeToName = JSON.parse(fs.readFileSync("countyCodeToName.json", { 
 const smsInboundPrices = JSON.parse(fs.readFileSync("sms_pricelist_inbound.json", { encoding: "utf-8" }));
 //Get latest file from here: https://s3.amazonaws.com/aws-sms-pricing-info-prod-us-east-1/smsPricesAndDeliverability-latest.json
 const smsOutBoundPrices = JSON.parse(fs.readFileSync("smsPricesAndDeliverability-latest.json", { encoding: "utf-8" }));
-const priceList = ["CountryName,CountryCode,Inbound Price,Provider,OutBoundTransactional Price,OutBound Promotional Price,OutBound OTP Price"];
+const priceList = ["CountryName,CountryCode,Inbound Price,Provider,mcc,mnc,OutBoundTransactional Price,OutBound Promotional Price,OutBound OTP Price"];
 for (let countryCode in countryCodeToName) {
     let countryOutBoundPrices = smsOutBoundPrices[countryCode];
     let countryInboundPrice = smsInboundPrices[countryCode];
@@ -13,7 +13,7 @@ for (let countryCode in countryCodeToName) {
         continue;
     }
     for (let countryOutBoundPrice of countryOutBoundPrices) {
-        const priceForCountry = `${countryCodeToName[countryCode]},${countryCode},${countryInboundPrice},${countryOutBoundPrice.name},${countryOutBoundPrice.transPrice},${countryOutBoundPrice.promoPrice},${countryOutBoundPrice.otpPrice || "NA"}`;
+        const priceForCountry = `${countryCodeToName[countryCode]},${countryCode},${countryInboundPrice},${countryOutBoundPrice.name},${countryOutBoundPrice.mcc},${countryOutBoundPrice.mnc},${countryOutBoundPrice.transPrice},${countryOutBoundPrice.promoPrice},${countryOutBoundPrice.otpPrice || "NA"}`;
         priceList.push(priceForCountry);
     }
 }
